@@ -4,7 +4,7 @@ Bonjour à tous! Vous trouverez ici les codes utilisés en démo pour les deux g
 
 ## Comment utiliser le répertoire GitHub
 
-- Il faut commencer par [installer Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) sur votre ordinateur en fonction de votre système d'expoitation.
+- Il faut commencer par [installer Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) sur votre ordinateur en fonction de votre système d'expoitation (Linux, Windows, MacOS).
 - Ensuite, ouvrir un terminal en ligne de commande sur votre ordinateur et taper/coller la commande `git clone https://github.com/NathanRazaf/IFT1025-Demos-H25.git` et appuyer sur Entrée:
   ![image](https://github.com/user-attachments/assets/f0769d77-c0ce-42b9-9355-14fe8ea63b6b)
 - Ouvrir IntelliJ/VSCode, ouvrir un nouveau projet et sélectionner le dossier où le répertoire a été cloné:
