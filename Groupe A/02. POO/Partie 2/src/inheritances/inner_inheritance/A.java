@@ -1,4 +1,6 @@
-package inheritances;
+package inheritances.inner_inheritance;
+
+import inheritances.B;
 
 public class A extends B { //,C
     private int ID;
