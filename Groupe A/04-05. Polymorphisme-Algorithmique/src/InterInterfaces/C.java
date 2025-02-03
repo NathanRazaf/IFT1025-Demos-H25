@@ -1,4 +1,4 @@
-package Demo5.InterInterfaces;
+package InterInterfaces;
 
 public class C implements B {
     // Implémentation de méthodeB

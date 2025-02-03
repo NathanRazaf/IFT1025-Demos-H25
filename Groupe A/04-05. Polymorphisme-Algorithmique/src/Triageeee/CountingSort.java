@@ -1,4 +1,4 @@
-package Demo5.Triageeee;
+package Triageeee;
 
 public class CountingSort { // Time complexity: O(n+k), where k is the known maximum value of the input array
     public static int[] sort(int[] tab, int max) {

@@ -1,4 +1,4 @@
-package Demo5.ImpôtsBouhBouh;
+package ImpôtsBouhBouh;
 
 public interface Payable {
     public static final double TPS = 0.05;

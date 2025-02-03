@@ -1,4 +1,4 @@
-package Demo5.MarioBazookaWut;
+package MarioBazookaWut;
 
 public class Ennemi implements Explosif {
     @Override

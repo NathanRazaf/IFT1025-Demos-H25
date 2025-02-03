@@ -1,4 +1,4 @@
-package Demo5.Triageeee;
+package Triageeee;
 
 public class SelectionSort { // Time complexity: O(n^2)
     public static int[] sort(int[] tab) {

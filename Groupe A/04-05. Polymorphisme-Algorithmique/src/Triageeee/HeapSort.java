@@ -1,4 +1,4 @@
-package Demo5.Triageeee;
+package Triageeee;
 
 public class HeapSort { // Time complexity: O(n log n)
     public static int[] sort(int[] tab) {

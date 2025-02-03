@@ -1,4 +1,4 @@
-package Demo5.Triageeee;
+package Triageeee;
 
 import java.util.Arrays;
 

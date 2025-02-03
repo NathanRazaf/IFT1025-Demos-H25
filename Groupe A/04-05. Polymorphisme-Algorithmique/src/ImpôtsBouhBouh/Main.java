@@ -1,4 +1,4 @@
-package Demo5.ImpôtsBouhBouh;
+package ImpôtsBouhBouh;
 
 public class Main {
     public static void main(String[] args) {

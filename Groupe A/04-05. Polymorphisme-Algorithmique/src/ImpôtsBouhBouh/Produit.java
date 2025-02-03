@@ -1,4 +1,4 @@
-package Demo5.ImpôtsBouhBouh;
+package ImpôtsBouhBouh;
 
 public class Produit implements Payable {
     private double prix;

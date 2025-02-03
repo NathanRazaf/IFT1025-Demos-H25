@@ -1,4 +1,4 @@
-package Demo5.MarioBazookaWut;
+package MarioBazookaWut;
 
 public class Main {
     public static void main(String[] args) {

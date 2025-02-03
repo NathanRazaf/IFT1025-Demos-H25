@@ -1,4 +1,4 @@
-package Demo5.InterInterfaces;
+package InterInterfaces;
 
 public interface A {
     public void methodeA();

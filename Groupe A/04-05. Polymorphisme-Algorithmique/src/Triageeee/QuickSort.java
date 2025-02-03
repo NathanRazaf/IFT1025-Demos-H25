@@ -1,4 +1,4 @@
-package Demo5.Triageeee;
+package Triageeee;
 
 public class QuickSort { // Time complexity: O(n log n)
 
