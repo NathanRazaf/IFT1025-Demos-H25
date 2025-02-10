@@ -1,6 +1,6 @@
 package HerosMieuxMieux;
 
-public class Warrior extends Hero {
+public class Warrior implements Hero {
     @Override
     public void heroAttack() {
         System.out.println("Warrior attack");

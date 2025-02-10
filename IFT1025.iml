@@ -9,6 +9,9 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Groupe A/03. Héritage/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Groupe A/04-05. Polymorphisme-Algorithmique/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Groupe A/05-06. Algorithmique-Structures/Codes/Demo6/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Groupe A/05-06. Algorithmique-Structures/Codes/Demo7/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Groupe A/05-06. Algorithmique-Structures/Codes/Demo8/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

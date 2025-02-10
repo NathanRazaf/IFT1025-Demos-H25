@@ -1,5 +1,5 @@
 package HerosMieuxMieux;
 
-public abstract class Hero {
-    public abstract void heroAttack();
+public interface Hero {
+    public void heroAttack();
 }

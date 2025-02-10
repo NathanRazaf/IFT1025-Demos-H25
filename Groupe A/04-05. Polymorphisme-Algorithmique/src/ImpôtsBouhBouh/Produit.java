@@ -19,6 +19,7 @@ public class Produit implements Payable {
         this.prix = prix;
     }
 
+    @Override
     public String toString() {
         return "Produit[prix=" + prix + "]";
     }
